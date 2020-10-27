@@ -1,4 +1,4 @@
-package com.home.gittestproject.presentation
+package com.home.gittestproject.presentation.view1
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //Esta info ira para la rama principal (Master) con el fin de validar nuevos cambios en diferentes ramas
         //version 1
+
+
     }
 }
