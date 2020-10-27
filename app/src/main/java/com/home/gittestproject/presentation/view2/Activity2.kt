@@ -6,4 +6,5 @@ package com.home.gittestproject.presentation.view2
 class Activity2 {
 
     //Cambios realizados en la rama develop
+    //Nuevos Cambios realizados en la rama nro 2 (develop)
 }
